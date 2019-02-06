@@ -1,5 +1,5 @@
 public class AdditionProblem {
-	public static void main(String[] args) {	
+//	public static void main(String[] args) { 	I want to use this piece of code correctly in order to make this class the main
     private int x,y,answer;
 
     public AdditionProblem() {
@@ -16,4 +16,4 @@ public class AdditionProblem {
     return answer;
     }
     }
-}	
+//}	
